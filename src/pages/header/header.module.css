@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    border: 1px solid yellow;
+    background-color: lightyellow;
+}
+
+.active {
+    color: blue;
+}

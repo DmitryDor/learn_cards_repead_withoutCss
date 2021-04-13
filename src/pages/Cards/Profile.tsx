@@ -2,11 +2,11 @@ import React from "react";
 import {SuperButton} from "../../components/superButton/SuperButton";
 import SuperInput from "../../components/superInput/SuperInput";
 
-export const Profile = () => {
+export const Cards = () => {
     return (
 
         <div>
-            Profile <SuperButton/> <SuperInput/>
+            Cards
         </div>
     )
 }
